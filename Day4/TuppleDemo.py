@@ -1,4 +1,8 @@
 #----------Tupple Colletion-----------------
+#-->Set ->{} = Curly Braces
+#-->list  ->[] = Square Brackets
+#--> tupple -> ()= Open Brackets
+
 ##How to create Tupple Collection
 myTupple=("apple","Bannaa","Cherry")     #Use Normal Brackets
 print(myTupple)                          #('apple', 'Bannaa', 'Cherry')

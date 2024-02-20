@@ -1,4 +1,9 @@
 #----------List Colletion-----------------
+
+#-->Set ->{} = Curly Braces
+#-->list  ->[] = Square Brackets
+#--> tupple -> ()= Open Brackets
+
 ##How to create List Collection
 # #Example-1
 myList1=[10,20,30,40,50]

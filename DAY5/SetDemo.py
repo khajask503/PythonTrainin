@@ -1,4 +1,8 @@
 #----------Set Colletion-----------------
+#-->Set ->{} = Curly Braces
+#-->list  ->[] = Square Brackets
+#--> tupple -> ()= Open Brackets
+
 #-> its Unordered & Unidexed and represented using curly braces {}
 ##How to create SET Collection
 mySet={"apple","Cherry","Bannaa"}     #Use Curly Brackets

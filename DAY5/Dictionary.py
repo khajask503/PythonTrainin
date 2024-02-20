@@ -1,4 +1,7 @@
 #----------Dictionary Colletion-----------------
+#-->Set ->{} = Curly Braces
+#-->list  ->[] = Square Brackets
+#--> tupple -> ()= Open Brackets
 #-> its Unordered & Changeble(Mutable) and UNIndexed and represented using curly braces {}
 #These has Curly braces
 #Key are Unique but Values can be duplicated
